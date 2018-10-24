@@ -143,7 +143,7 @@ Nó rất chú ý tới các mà bạn tương các với kết quả tìm kiế
 
 Hãy xem xét một ví dụ:
 
-Bạn căng cơ lưng sau khi chơi. Vì thế bạn tìm kiếm “bị căng cơ lưng” trên Google.
+Bạn căng cơ lưng sau khi chơi tennis. Vì thế bạn tìm kiếm “bị căng cơ lưng” trên Google.
 
 Giống như hầu hết mọi người, bạn click vào kết quả đầu tiên. Không may, phần mở đầu có nội dung ngoài lề (“Lưng của bạn là một nhóm cơ quan trọng...”).
 
