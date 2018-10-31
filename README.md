@@ -172,3 +172,100 @@ Và nết Google được thông báo rằng nhiều người dừng pogo-sticki
 
 Tôi sẽ nói nhiều hơn nữa về tín hiệu UX trong Chapters 4
 và 5. Nhưng bây giờ, là thời gian để tôi cho bạn thấy cách mà RankBrain thay đổi cách hoạt động nghiên cứu từ khóa.
+
+## Chương 3: Nghiên cứu từ khóa trong Thế Giới RankBrain
+Như các bạn đã thấy, Google giờ đã có thể hiểu được những mục tiêu đằng sau 1 từ khóa.
+Vậy liệu rằng những cách nghiên cứu từ khóa truyền thống sẽ vô dụng?
+Không hề!
+Nó có nghĩa là bạn có thể cần phải tinh chỉnh quá trình nghiên cứu từ khóa của bạn để thân thiện với RankBrain hơn.
+
+Và đây là cách:
+
+##  Loại bỏ những từ khóa dài (Chúng đã vô dụng rồi)
+
+Những từ khóa dài đã vô dụng rồi
+Quay trở về ngày ý nghĩa mà chúng ta tạo hàng trăm các trang khác nhau... với mỗi trang đều được tối ưu xoay quanh 1 từ khóa khác nhau.
+Ví dụ, bạn tạo 1 trang được tối ưu cho "công cụ nghiên cứu từ khóa tốt nhất". Và 1 trang khác tối ưu cho "công cụ tốt nhất cho nghiên cứu từ khóa"
+
+Và Google cũ sẽ xếp hạng chúng dựa theo những từ khóa dài tương ứng của chúng.
+Ngày nay, RankBrain hiểu rằng những cụm từ này đơn thuần chỉ là 1. Vì vậy chúng hiển thị những kết quả tìm kiếm gần như tương tự nhau.
+Nói 1 cách ngắn gọn, việc tối ưu những từ khóa dài không có nghĩa gì nữa.
+Vậy chúng ta nên làm gì thay thế? tiếp tục đọc phần dưới nào...
+
+
+## Tối ưu xung quanh những từ khóa có độ dài trung bình
+Thay vì những từ khóa dài, tôi khuyên bạn nên tối ưu nội dung xung quanh những từ khóa có độ dài trung bình.
+Những từ khóa có độ dài trung bình là những cụm từ trung bình. Chúng nó lượng tìm kiếm nhiều hơn những từ khóa dài trung bình của bạn. Nhưng chúng lại không quá khó để cạnh tranh.
+Ví dụ, đây là 1 tập các từ khóa xung quanh chủ đề "Paleo Diet". Các cụm từ ở giữa là những từ khóa có độ dài trung bình.
+Khi bạn tối ưu trang của bạn xung quanh 1 từ khóa độ dài trung bình ( và khiến trang web đó trở nên tuyệt vời). RankBrain sẽ tự động xếp hạng bạn cho cụm từ đó... và hàng nghìn những từ khóa tương tự.
+Nói 1 cách ngắn gọn, tôi khuyên bạn nên tối ưu trang của bạn xung quanh 1 từ khóa đơn.
+(Hãy đảm bảo đó là 1 từ khóa có độ dài trung bình)
+Sau đó, hãy để RankBrain xếp hạng trang đơn của bạn với nhiều từ khóa khác liên quan
+Vậy 1 ví dụ về quá trình này trong thực tế thì sao?
+## 1 ví dụ về việc nghiên cứu từ khóa và SEO On-Page trong thế giới RankBrain
+1 thời gian trước tôi đã quyết định sẽ viết review về tất cả các công cụ SEO tôi đã sử dụng.
+
+Kết quả là? SEO Tools: Danh sách đầy đủ.
+
+Do nội dung của tôi cung cấp 1 lượng lớn giá trị trên từng trang đơn, nó được xếp hàng trong top 5 với từ khóa đích (độ dài trung bình) của tôi: SEO Tools.
+Nhưng quan trong hơn đó là, RankBrain hiểu rằng trang web của tôi nói về các khái niệm như "công cụ SEO", "phần mềm SEO", "các công cụ nghiên cứu từ khóa" vân vân
+Đó là lí do tại sao trang đơn này được xếp hạng cho 1800 từ khóa khác nhau (dựa theo SEMrush): Đó là sức mạnh của việc tối ưu nội dung hấp dẫn xung quanh 1 từ khóa đơn có độ dài trung bình.
+
+## Chương 4: Làm thế nào để tối ưu các thẻ tiêu đề và miêu tả cho CTR
+Như bạn đã thấy ở chương 1, organic CTR là 1 dấu hiệu xếp hạng quan trọng của RankBrain
+Câu hỏi đặt ra là: làm thế nào để bạn có thể làm cho người khác click vào kết quả của bạn?
+Đúng rồi, đó chính xác những gì tôi muốn làm rõ trong chương này
+
+## Đóng gói các cảm xúc vào thẻ Tiêu đề 
+Không còn nghi ngờ gì nữa: các tiêu đề có cảm xúc sẽ có nhiều lượt click hơn.
+Đây là điều mà những người viết quảng cáo đã biết vài năm nay rồi. Và trong những năm gần đây, những dữ liệu cho thấy ý tưởng này đang dần quay trở lại. Trong thực tế, CoSchedule tìm thấy 1 sự liên quan rất rõ rệt giữa  những tiêu đề có cảm xúc cao với những chia sẻ trên mạng xã hội.
+Giá trị của cảm xúc
+Ví dụ, đây là 1 tag tiêu đề được tối ưu SEO 1 cách cơ bản.
+
+#### Mẹo về năng suất: Cách hoàn thành nhiều hơn
+không tệ nhỉ. Nhưng nó có vẻ còn thiếu 1 vài thứ để thúc đẩy mọi người click vào nó.
+Đây là cách bạn có thể biến tag tiêu đề trên thành 1  thứ có nhiều cảm xúc hơn ( mà vẫn giữ nó thân thiện với SEO)
+
+####Đè bẹp danh sách việc cần làm của bạn với 17 mẹo năng suất này
+
+Không phải lúc nào việc tạo ra những tiêu đề với nhiều cảm xúc sẽ đem lại hiệu quả. Nhưng bạn nên làm bất cứ khi nào có thể.
+
+## Thêm các cặp dấu ngoặc vào cuối tiêu đề của bạn
+Đây là 1 trong những cách ưa thích để hack CTR mà tôi luôn sử dụng
+Đầu tiên tôi khám phá ra mẹo này từ 1 bài nghiên cứu HubSpot và Outbrain đã thực hiện vài năm trước
+Trong nghiên cứu đó, họ đã phân tích 3.3 triệu tiêu đề. Và họ thấy rằng những  tiêu đề  có dấu ngoặc hiệu quả hơn không có khoảng 33%
+Trong thực tế, chiến lược nhỏ này hiệu quả đến mức tôi thêm các dấu ngoặc trong hầu hết các tiêu đề của tôi
+
+## Sử dụng các con số (Và không chỉ trên danh sách bài viết)
+Các dữ liệu từ nhiều nguồn ( bao gồm BuzzSumo ) là tương đối rõ ràng: các con số sẽ cải thiện thông số CTR.
+Vậy phần tuyệt nhất ở đây là gì?
+Bạn có thể sự dụng các con số trong tiêu đề của bạn... thậm chi ngay cả khi nội dung không phải là danh sách bài viết.
+Ví dụ, năm ngoái tôi đã đưa ra nghiên cứu này:
+Như bạn có thể thấy, tôi đã thêm không chỉ 1, và 2 con số vào trong tiêu đề.
+
+##  Rải đều các từ ngữ có ảnh hưởng vào trong các tag tiêu đề 
+Những từ ngữ có ảnh hưởng là những cụm từ có những thể hiện cảm xúc 1 cách mạnh mẽ.
+Bạn đoán đúng rồi đấy: việc sử dụng những từ ngữ mạnh sẽ giúp tiêu đề có bạn nổi bật và có nhiều click hơn.
+Dưới đây là danh sách 1 vài từ ngữ mạnh mà tôi luôn ưa thích sử dụng    
+
+Effective
+Insane
+That Will Case Study
+Examples
+Proven Study
+New
+Powerful
+
+## Đừng quên tối ưu thẻ Description của bạn để cải thiện CTR
+Đúng vậy các thể description không trực tiếp giúp cho việc sEO. Tôi đã nhận ra việc 1 thẻ description được tôi ưu có thể cải thiện CTR của bạn 1 cách ghê gớm.
+ĐÂy là cách mà tôi tạo 1 tag description mà có kết quả:
+
+###1 Đầu tiên hay làm cho nó có cảm xúc. 
+Cũng giống như 1 tag tiêu đề, bạn muốn tag description của bạn có  1 chút cảm xúc trong đó.
+Đây là 1 ví dụ.
+###2 Tiếp đó, cho người ta biết lí do mà họ nên click vào kết quả của bạn?
+Liệu kết quả của bạn có  sự bao quát không? Liệu nó dựa trên nghiên cứu chứ? đùa à? Hãy để điều đó trong mô tả của bạn
+###3 Sau đó copy các từ và cụm từ và các quảng cáo trả phí ( AdWords) sử dụng.
+Ví dụ khi tôi tìm "bone broth" tôi thấy những cụm từ này xuất hiện trong 2 bài quảng cáo
+###4.Cuối cùng, thêm từ khóa đích của bạn.
+Google sẽ bôi đậm nó, và khiến kết quả của bạn trở nên khác biệt.
