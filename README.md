@@ -269,3 +269,125 @@ Liệu kết quả của bạn có  sự bao quát không? Liệu nó dựa trê
 Ví dụ khi tôi tìm "bone broth" tôi thấy những cụm từ này xuất hiện trong 2 bài quảng cáo
 ###4.Cuối cùng, thêm từ khóa đích của bạn.
 Google sẽ bôi đậm nó, và khiến kết quả của bạn trở nên khác biệt.
+
+## Chương 5: Làm thế nào để tối ưu nội dung nhằm cải thiện Tỷ lệ thoát và thời gian dừng
+
+Ok, vậy là bạn đã sử dụng các mẹo cải thiện CTR của tôi. Và có nhiều người click vào kết quả của bạn hơn trước.
+Giờ thì sao? Đúng rồi , bạn cần cho Google thấy rằng kết quả của bạn làm cho người dùng của họ hài lòng
+Và cách tốt nhất đề làm điều này là gì? Cải thiện thời gian dừng của bạn
+
+#### Google có thực sự sử dụng thời gian dừng không? Có đấy!
+thời gian dừng là khoảng thời gian 1 người dùng tìm kiếm trên Goolge ở trên trang của bạn sau khi click vào kết quả tìm kiếm của bạn.
+Rõ ràng là người dùng ở trên trang của bạn càng lâu càng tốt. Nó nói với Google rằng : "Man , mọi người đang yêu thích kết quả này. Hãy đẩy cho nó thêm ít điểm."
+Và nếu có ai đó rời trang của bạn chỉ sau 2 giây, điều đó sẽ nói cho google "kết quả này thật tệ! Hãy hạ vài điểm của nó đi."
+Vậy thật hợp lý khi RankBrain đo lường Dwell Time -  và trộn các kết quả xung quanh dựa trên tín hiệu này.
+Trong thực tế, gần đây 1 kĩ sư Google đã nói rằng Google tin tưởng 100% với các dấu hiệu off-page( đặc biệt là các backlink). Thậm chí nếu Google vẫn sử dụng backlink, người kĩ sư này đã chỉ ra rằng:
+
+"Google hiện nay đã tích hợp machine learning vào trong tiến trình ,  Vì vậy sau khi mô hình đào tạo khi một ai đó click vào trang và ở lại trang đó , Khi họ quay lại hoặc khi họ cố tìm một mối quan hệ thật sự nào đó"
+
+Và dữ liệu sẽ dần tự cải thiện. Khi chúng tôi phân tích một tập hợp lớn các kết quả tìm kiếm của Google, chúng tôi đã tìm thấy mối tương quan giữa thứ hạng cao và tỷ lệ thoát thấp:
+
+## Làm thế nào để giảm Bounce Rate và tăng Dwell Time
+Giờ là lúc tôi sẽ chia sẻ 1 vài chiến lược đơn giản  mà bạn có thể dùng để tăng dwell time trên trang của bạn.
+
+#### 1.Đẩy nội dung của bạn lên trên màn hình đầu tiên
+Khi có ai đó click vào trang của bạn từ google, họ sẽ muốn có câu trả lời ngay lập tức.
+Nói cách khác, họ không muốn lăn chuột xuống để đọc nội dung.
+Đó là lý do tại sao tôi khuyên bạn nên xóa mọi thứ đẩy nội dung của bạn xuống dưới màn hình đầu tiên, như sau:
+Thay vào đó, bạn muốn câu đầu tiên của nội dung và trung tâm nội dung của mình:
+Bằng cách đó, bạn sẽ thu hút người đọc của bạn ngay lập tức
+
+#### 2 Sử dụng giới thiệu ngắn (5-10 câu MAX)
+Tin hay không thì tùy, nhưng tôi dành nhiều thời gian hơn cho phần giới thiệu của tôi hơn là tiêu đề của tôi.
+Đó là bởi vì lời giới thiệu của bạn sẽ quyết định 90% khả năng người dùng quyết định ở lại hay là bỏ đi.
+Và sau rất nhiều bài kiểm tra tôi đã nhận ra những câu giới thiệu ngắn có hiệu quả hơn.
+Tại sao?
+Khi có ai đó tìm kiếm gì đó trên Google, họ đã biết về chủ đề đó rồi. Vì vậy không cần phải giới thiệu quá dài dòng.
+Thay vào đó, hãy sử dụng phần giới thiệu của bạn để bán nội dung mà họ sắp đọc, như sau:
+Khi ai đó tìm kiếm từ khóa "white hat sEO" mà đọc được dòng giới thiệu này họ sẽ nghĩ "Ruyệt vời! Đây đúng là nơi tôi tìm"
+
+#### 3 Xuất bản những nội dung dài, có chiều sâu
+Tôi đã thử nghiệm điều này 10 cách khác nhau vào thứ ba. Và tôi có thể khẳng định với bạn rằng:
+Nội dung dài = Dwell Time tốt hơn
+Rõ ràng là việc đọc 1 bài hướng dẫn 2000 từ sẽ lâu hơn là 1 bài viết blog 400 từ. Nhưng đấy chỉ là 1 phần thôi.
+Lí do khác mà khiến nội dung có cấu trúc dài sẽ làm tăng Dwell Time là nội dung dài có thể trả lời đầy đủ cho câu hỏi của người dùng
+Ví dụ, bạn tìm kiểm "cách chạy marathon"
+Và kết quả đầu tiên bạn click vào là 1 bài viết 300 từ. Nó như kiểu 1 câu trả lời ngắn gọn cho câu hỏi của bạn... nhưng bạn muốn nhiều hơn.
+Vì vậy bạn click vào nút back để tìm thứ gì đó tốt hơn( và bạn còn nhớ không, Google gọi đây là Pogo sticking)
+Và lần này bạn trúng số độc đắc.
+Bạn tìm được 1 bài hướng dẫn  toàn diện và có mội thứ bạn cần biết về chạy 1 cuộc marathon.
+Vì vậy bạn lấy 1 cốc cafe và đọc bài hướng dẫn từ đầu đến cuối. Bạn thậm chí còn đọc lại từng phần. Việc đọc thể này sẽ cải thiện đáng kể Dwell Time.
+Các nội dung có trúc dài cũng rất hiệu quả khi tôi chỉ định xuất bản các bài viết có ít nhất 2000 từ.
+
+#### 4 Chia nhỏ nội dung của bạn thành các khối có kích thước nhỏ
+Sự thật là:
+Đọc 2000 từ rất khó khăn.
+Và thậm chí còn khó hơn khi 2000 từ đó được biểu diễn như là 1 bức tường chữ lớn vậy.
+May mắn là, có 1 cách đơn giản để giải quyết vấn đề này: đó là các tiêu đề phụ.
+Tiêu đề phụ - tiêu đề phụ sẽ chia nội dung của bạn thành các phần nhỏ mà vẫn có thể hiểu được. Điều này giúp tăng khả năng đọc, và tất nhiên là cả Dwell Time.
+Tôi đã sử dụng rất nhiều tiêu đề phụ trong Backlink vì lí do cụ thể: đặc biệt, tôi cố gắng đưa 1 tiêu đề phụ vào với mỗi nội dung 200 từ.
+
+Mẹo: Tránh các tiêu đề phụ nhàm chán như “Backhand Drills” hoặc “Stay Hydrated". Thay vào đó, hãy đóng gói các tiêu đề phụ của bạn bằng cảm xúc. Ví dụ: “3 Backhand Drills đơn giản sử dụng thuận lợi” và “Nghiên cứu mới nói về việc giữ Hydrated."
+
+## chương  6:Tối ưu hóa thêm RankBrain. Chiến lược và nghiên cứu điển hình
+
+Trong chương này, tôi sẽ giới thiệu một số chiến lược nhanh mà bạn có thể sử dụng để tối ưu hóa trang web của mình cho RankBrain.
+
+###Tăng nhận thức về thương hiệu. Cải thiện CTR
+
+Tôi đã chỉ cho bạn cách tính số, cảm xúc và từ năng lượng có thể cải thiện CTR không phải trả tiền của bạn.
+Nhưng có 1 thứ khác tôi chưa đề cập : nhận diện thương hiệu.
+Không cần phải nói, rõ ràng nếu ai đó biết về thương hiệu của bạn, họ sẽ thích click vào trang của bạn hơn trong các kết quả tìm kiếm. Thực tế dữ liệu từ WordStream chỉ ra rằng việc nhận diện thương hiệu có thể tăng CTR lên 342%.
+Ví dụ, hay xem những kết quả tìm kiếm sau:
+2 trang nào được click vào nhiều nhất? Rõ ràng là NYTimes.com và Simply Recipes rồi!
+Nói cách khác, bạn muốn mọi người viết về thương hiệu của bạn trước khi tìm kiếm trên Google.
+Làm cách nào để bạn tăng nhận diện thương hiệu của bạn?
+#### 1 Đầu tiên hãy thử Facebook ads.
+Thậm chi nếu người dùng không click và chuyển hướng, Facebook ads có thể đặt thương hiệu của bạn trước tầm mắt của rất nhiều người.
+Và khi những con mắt đó lướt qua các kết qua tìm kiểm, họ sẽ thích click vào kết quả của bạn hơn.
+
+#### 2 Ngoài ra, tạo một bản tin email có nhanh
+
+Không có gì làm tăng nhận thức về thương hiệu hơn là gửi nội dung có giá trị đến hộp thư đến của mọi người.
+
+Thực tế, tỷ lệ phát triển của tôi cao hơn mức trung bình của ngành bởi vì tôi chỉ gửi những thứ tốt:
+
+Không cần phải nói, những người đăng ký của tôi đã học được rằng tài liệu của tôi là tốt nhất trong kinh doanh. Vì vậy, khi Backlinko xuất hiện trên trang 1, họ có nhiều khả năng nhấp vào kết quả của tôi hơn.
+
+#### 3 Cuối cùng, hãy thực hiện “Nội dung Blitz”.
+1 "Nội dung Blitz" là khi bạn xuất bản rất nhiều nội dung trong 1 khoảng thời gian ngắn. Và tin tôi đi: cách này hiệu quả hơn nhiều là việc ra bài viết cách nhau hàng năm trời.
+Thực tế, tôi thường sử dụng Nội dung Blitz khi bắt đầu Backlinko.
+Tôi đã xuất bản bài đăng của khách:
+Tôi đã vào Podcasts:
+Tôi thậm chí là đồng tác giả một hướng dẫn với Neil Patel:
+(Tất cả trong một khoảng thời gian vài tháng)
+Và điều này đã giúp Backlinko từ "Cái gì vậy?" Đến "Thật là một trang tuyệt vời!" Trong thời gian kỷ lục.
+
+#### Chuyển từ “Zeros” thành “Heros”
+Bạn có 1 trang trên trên site của bạn không tốt như bạn muốn không?
+Tôi có 1 tin tốt đây: nếu bạn quay lại và tối ưu trang đó cho RankBrain, bạn có có thể tăng thứ hạng của nó 1 cách đáng kể.
+Ví dụ, Sean từ Proven.com có 1 bài hướng dẫn chi tiết trên trang của anh ta về những thứ đang OK nhưng không được xếp hạng tốt như anh ấy kỳ vọng. Và Sean nhận ra rằng tag tiêu đề trang của anh ấy  không đủ huyết phục mọi người click vào:
+Vì vậy anh ấy đã thêm 1 con số, 1 Power Word và dấu ngoặc đơn vào tag tiêu đề:
+Và từng thay đổi đơn tăng lượng organic trafic của Sean trên trang của anh ý gần 128%.
+Và, sự tăng traffic dựa trên 1 sự thật đơn giản là có càng nhiều người click vào kết quả của Sean.
+Nhưng phần quan trọng nhất của câu chuyện là RankBrain sẽ chú ý đến lượng tăng CTR ... và cho trang của Sean thêm vào điểm xếp hạng:
+
+#### Sử dụng từ khóa LSI để điền vào "Khoảng trống nội dung"
+LSI Keywords là các từ và cụm từ liên quan đến chủ đề chính của nội dung.
+Tại sao các LSI Keyword quan trọng? Vì chúng là điều kiện để RankBrain hoàn toàn hiểu được trang của bạn.
+Ví dụ, giả sử bạn đang viết 1 bài hướng dẫn về việc xây dựng link.
+LSI Keywords là những thứ như là:
+
+Backlinks
+Domain Authority
+Email outreach
+Anchor text
+
+Và khi RankBrain thấy rằng nội dung của bạn có chưa những từ này, họ tin chắc rằng trang của bạn viết về xây dựng link...
+có nghĩa là bạn gần như được xếp hạng cho những từ khóa liên quan đến chủ đề đó.
+
+Bạn có thể tìm LSI keyword với Công cụ hiểu ngôn ngữ tự nhiên Watson.
+Công cụ này nghiên cứu nội dụng bạn đưa ra với những khái niệm, thực thể và danh mục.
+Ví dụ khi bạn điền phần đầu của bài hướng dẫn này, nó sẽ chỉ ra các khải niệm liên quan đến RankBrain.
+Phần thú vị là tôi không hề đề cập quá nhiều đến những từ này trong bài hướng dẫn. Như RankBrain, Watson hiểu được nội dung của tôi viết về cái gì. Thật là tuyệt.
+Và khi bạn thêm LSI keyword vào bài viết của bạn, bạn sẽ đảm bảo với RankBrain rằng nội dung của bạn rất chất lượng.
