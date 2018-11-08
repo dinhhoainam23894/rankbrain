@@ -270,14 +270,14 @@ Ví dụ khi tôi tìm "bone broth" tôi thấy những cụm từ này xuất h
 ###4.Cuối cùng, thêm từ khóa đích của bạn.
 Google sẽ bôi đậm nó, và khiến kết quả của bạn trở nên khác biệt.
 
-## Chương 5: Làm thế nào để tối ưu nội dung nhằm cải thiện Tỷ lệ thoát và thời gian dừng
+## Chương 5: Làm thế nào để tối ưu nội dung nhằm cải thiện Tỷ lệ thoát và thời gian sử dụng trang
 
 Ok, vậy là bạn đã sử dụng các mẹo cải thiện CTR của tôi. Và có nhiều người click vào kết quả của bạn hơn trước.
 Giờ thì sao? Đúng rồi , bạn cần cho Google thấy rằng kết quả của bạn làm cho người dùng của họ hài lòng
 Và cách tốt nhất đề làm điều này là gì? Cải thiện thời gian dừng của bạn
 
-#### Google có thực sự sử dụng thời gian dừng không? Có đấy!
-thời gian dừng là khoảng thời gian 1 người dùng tìm kiếm trên Goolge ở trên trang của bạn sau khi click vào kết quả tìm kiếm của bạn.
+#### Google có thực sự sử dụng thời gian sử dụng trang không? Có đấy!
+thời gian sử dụng trang là khoảng thời gian 1 người dùng tìm kiếm trên Goolge ở trên trang của bạn sau khi click vào kết quả tìm kiếm của bạn.
 Rõ ràng là người dùng ở trên trang của bạn càng lâu càng tốt. Nó nói với Google rằng : "Man , mọi người đang yêu thích kết quả này. Hãy đẩy cho nó thêm ít điểm."
 Và nếu có ai đó rời trang của bạn chỉ sau 2 giây, điều đó sẽ nói cho google "kết quả này thật tệ! Hãy hạ vài điểm của nó đi."
 Vậy thật hợp lý khi RankBrain đo lường Dwell Time -  và trộn các kết quả xung quanh dựa trên tín hiệu này.
@@ -299,11 +299,11 @@ Bằng cách đó, bạn sẽ thu hút người đọc của bạn ngay lập t�
 
 #### 2 Sử dụng giới thiệu ngắn (5-10 câu MAX)
 Tin hay không thì tùy, nhưng tôi dành nhiều thời gian hơn cho phần giới thiệu của tôi hơn là tiêu đề của tôi.
-Đó là bởi vì lời giới thiệu của bạn sẽ quyết định 90% khả năng người dùng quyết định ở lại hay là bỏ đi.
-Và sau rất nhiều bài kiểm tra tôi đã nhận ra những câu giới thiệu ngắn có hiệu quả hơn.
+Đó là bởi vì lời mô tả của bạn sẽ quyết định 90% khả năng người dùng quyết định ở lại hay là bỏ đi.
+Và sau rất nhiều bài kiểm tra tôi đã nhận ra những câu mô tả ngắn có hiệu quả hơn.
 Tại sao?
 Khi có ai đó tìm kiếm gì đó trên Google, họ đã biết về chủ đề đó rồi. Vì vậy không cần phải giới thiệu quá dài dòng.
-Thay vào đó, hãy sử dụng phần giới thiệu của bạn để bán nội dung mà họ sắp đọc, như sau:
+Thay vào đó, hãy sử dụng phần mô tả của bạn để bán nội dung mà họ sắp đọc, như sau:
 Khi ai đó tìm kiếm từ khóa "white hat sEO" mà đọc được dòng giới thiệu này họ sẽ nghĩ "Ruyệt vời! Đây đúng là nơi tôi tìm"
 
 #### 3 Xuất bản những nội dung dài, có chiều sâu
@@ -348,11 +348,11 @@ Và khi những con mắt đó lướt qua các kết qua tìm kiểm, họ sẽ
 
 #### 2 Ngoài ra, tạo một bản tin email có nhanh
 
-Không có gì làm tăng nhận thức về thương hiệu hơn là gửi nội dung có giá trị đến hộp thư đến của mọi người.
+Không có gì làm tăng nhận thức về thương hiệu hơn là gửi nội dung có giá trị đến hộp thư của mọi người.
 
-Thực tế, tỷ lệ phát triển của tôi cao hơn mức trung bình của ngành bởi vì tôi chỉ gửi những thứ tốt:
+Thực tế, tỷ lệ phát triển của tôi cao hơn mức trung bình trong ngành bởi vì tôi chỉ gửi những thứ tốt:
 
-Không cần phải nói, những người đăng ký của tôi đã học được rằng tài liệu của tôi là tốt nhất trong kinh doanh. Vì vậy, khi Backlinko xuất hiện trên trang 1, họ có nhiều khả năng nhấp vào kết quả của tôi hơn.
+Không cần phải nói, những người đăng ký của tôi đã học được rằng tài liệu của tôi là tốt nhất trong kinh doanh. Vì vậy, khi Backlinko xuất hiện trên trang tìm kiếm đầu tiên, họ có nhiều khả năng nhấp vào kết quả của tôi hơn.
 
 #### 3 Cuối cùng, hãy thực hiện “Nội dung Blitz”.
 1 "Nội dung Blitz" là khi bạn xuất bản rất nhiều nội dung trong 1 khoảng thời gian ngắn. Và tin tôi đi: cách này hiệu quả hơn nhiều là việc ra bài viết cách nhau hàng năm trời.
@@ -368,7 +368,7 @@ Bạn có 1 trang trên trên site của bạn không tốt như bạn muốn kh
 Tôi có 1 tin tốt đây: nếu bạn quay lại và tối ưu trang đó cho RankBrain, bạn có có thể tăng thứ hạng của nó 1 cách đáng kể.
 Ví dụ, Sean từ Proven.com có 1 bài hướng dẫn chi tiết trên trang của anh ta về những thứ đang OK nhưng không được xếp hạng tốt như anh ấy kỳ vọng. Và Sean nhận ra rằng tag tiêu đề trang của anh ấy  không đủ huyết phục mọi người click vào:
 Vì vậy anh ấy đã thêm 1 con số, 1 Power Word và dấu ngoặc đơn vào tag tiêu đề:
-Và từng thay đổi đơn tăng lượng organic trafic của Sean trên trang của anh ý gần 128%.
+Và từng thay đổi nhỏ tăng lượng organic trafic của Sean trên trang của anh ý gần 128%.
 Và, sự tăng traffic dựa trên 1 sự thật đơn giản là có càng nhiều người click vào kết quả của Sean.
 Nhưng phần quan trọng nhất của câu chuyện là RankBrain sẽ chú ý đến lượng tăng CTR ... và cho trang của Sean thêm vào điểm xếp hạng:
 
